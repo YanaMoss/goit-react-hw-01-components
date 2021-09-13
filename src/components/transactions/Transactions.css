@@ -1,0 +1,18 @@
+.transaction-history {
+  width: 100%;
+  margin: auto;
+}
+
+.transaction-head-item {
+  padding: 15px;
+  background-color: rgb(90, 183, 236);
+  text-transform: uppercase;
+}
+
+.transaction-body-item {
+  height: 36px;
+  text-align: center;
+  border: 1px solid #ececec;
+  background-color: #ececec;
+  text-transform: capitalize;
+}

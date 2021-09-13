@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://cdn.fakercloud.com/avatars/vlajki_128.jpg",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://cdn.fakercloud.com/avatars/carlosm_128.jpg",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://cdn.fakercloud.com/avatars/n3dmax_128.jpg",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://cdn.fakercloud.com/avatars/dhrubo_128.jpg",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar":  "https://cdn.fakercloud.com/avatars/cbracco_128.jpg",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
